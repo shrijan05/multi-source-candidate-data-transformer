@@ -1,0 +1,122 @@
+{
+  "full_name": "Shrijan",
+  "primary_email": "shrijan123@gmail.com",
+  "phone": "+919877633987",
+  "skills": [
+    "algorithms",
+    "data structures",
+    "docker",
+    "fastapi",
+    "git",
+    "java",
+    "javascript",
+    "machine learning",
+    "mongodb",
+    "node.js",
+    "python",
+    "react"
+  ],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "ats_json",
+      "method": "priority_select"
+    },
+    {
+      "field": "emails[0]",
+      "source": "ats_json",
+      "method": "merge"
+    },
+    {
+      "field": "phones[0]",
+      "source": "ats_json",
+      "method": "normalize"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "experience",
+      "source": "ats_json",
+      "method": "append"
+    },
+    {
+      "field": "emails[1]",
+      "source": "recruiter_csv",
+      "method": "merge"
+    },
+    {
+      "field": "experience",
+      "source": "recruiter_csv",
+      "method": "append"
+    },
+    {
+      "field": "phones[1]",
+      "source": "recruiter_notes",
+      "method": "normalize"
+    },
+    {
+      "field": "skills",
+      "source": "recruiter_notes",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "recruiter_notes",
+      "method": "aggregated"
+    },
+    {
+      "field": "headline",
+      "source": "github_api",
+      "method": "api_extraction"
+    },
+    {
+      "field": "skills",
+      "source": "github_api",
+      "method": "aggregated"
+    }
+  ],
+  "overall_confidence": 0.5
+}

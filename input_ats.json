@@ -1,0 +1,24 @@
+[
+  {
+    "candidateName": "Shrijan",
+    "emailAddress": "shrijan123@gmail.com",
+    "phoneNumber": "+91-9877633987",
+    "tags": [
+      "Python",
+      "Java",
+      "Machine Learning",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Git",
+      "Data Structures",
+      "Algorithms"
+    ],
+    "workHistory": [
+      {
+        "company": "Google Student Ambassador Program",
+        "title": "Student Ambassador"
+      }
+    ]
+  }
+]

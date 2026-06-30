@@ -1,0 +1,5 @@
+Candidate notes: Shrijan Kumar has strong Python fundamentals and practical experience in Machine Learning, FastAPI, React, and MongoDB through academic and personal projects. Participated in the Google Student Ambassador Program and demonstrates good problem-solving skills.
+
+Contact backup phone number is +91-9877633987 if primary is unreachable.
+
+Skills: Python, Machine Learning, FastAPI, React, Node.js, MongoDB, Docker, Git

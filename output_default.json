@@ -1,0 +1,224 @@
+{
+  "candidate_id": "cand_999",
+  "full_name": "Shrijan",
+  "emails": [
+    "shrijan123@gmail.com",
+    "connect.shrijan@shrijan.online"
+  ],
+  "phones": [
+    "+919877633987",
+    "+19877633987"
+  ],
+  "location": null,
+  "links": {},
+  "headline": "B.Tech CSE student | Google Student Ambassador | Machine Learning and Full Stack Developer | Open Source Enthusiast",
+  "years_experience": null,
+  "skills": [
+    {
+      "name": "Python",
+      "confidence": 1.0,
+      "sources": [
+        "ats_json",
+        "recruiter_notes",
+        "github_api"
+      ]
+    },
+    {
+      "name": "Java",
+      "confidence": 0.8999999999999999,
+      "sources": [
+        "ats_json",
+        "github_api"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "confidence": 0.8999999999999999,
+      "sources": [
+        "ats_json",
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": 0.8999999999999999,
+      "sources": [
+        "ats_json",
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "confidence": 0.8999999999999999,
+      "sources": [
+        "ats_json",
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "confidence": 0.8999999999999999,
+      "sources": [
+        "ats_json",
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "Git",
+      "confidence": 0.8999999999999999,
+      "sources": [
+        "ats_json",
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "Data Structures",
+      "confidence": 0.7,
+      "sources": [
+        "ats_json"
+      ]
+    },
+    {
+      "name": "Algorithms",
+      "confidence": 0.7,
+      "sources": [
+        "ats_json"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "confidence": 0.7,
+      "sources": [
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "Docker",
+      "confidence": 0.7,
+      "sources": [
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "confidence": 0.7,
+      "sources": [
+        "github_api"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Google Student Ambassador Program",
+      "title": "Student Ambassador"
+    },
+    {
+      "company": "Google Student Ambassador Program",
+      "title": "Student Ambassador"
+    }
+  ],
+  "education": [],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "ats_json",
+      "method": "priority_select"
+    },
+    {
+      "field": "emails[0]",
+      "source": "ats_json",
+      "method": "merge"
+    },
+    {
+      "field": "phones[0]",
+      "source": "ats_json",
+      "method": "normalize"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json",
+      "method": "aggregated"
+    },
+    {
+      "field": "experience",
+      "source": "ats_json",
+      "method": "append"
+    },
+    {
+      "field": "emails[1]",
+      "source": "recruiter_csv",
+      "method": "merge"
+    },
+    {
+      "field": "experience",
+      "source": "recruiter_csv",
+      "method": "append"
+    },
+    {
+      "field": "phones[1]",
+      "source": "recruiter_notes",
+      "method": "normalize"
+    },
+    {
+      "field": "skills",
+      "source": "recruiter_notes",
+      "method": "aggregated"
+    },
+    {
+      "field": "skills",
+      "source": "recruiter_notes",
+      "method": "aggregated"
+    },
+    {
+      "field": "headline",
+      "source": "github_api",
+      "method": "api_extraction"
+    },
+    {
+      "field": "skills",
+      "source": "github_api",
+      "method": "aggregated"
+    }
+  ],
+  "overall_confidence": 0.5
+}
