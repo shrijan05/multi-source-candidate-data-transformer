@@ -150,8 +150,8 @@ No external libraries are required. The project uses only Python's standard libr
 #### Step 1: Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
-cd <repository-folder>
+git clone https://github.com/shrijan05/multi-source-candidate-data-transformer.git
+cd multi-source-candidate-data-transformer
 ```
 
 Or download the ZIP file from GitHub and extract it.
@@ -212,7 +212,7 @@ Expected Result
 
 ##### Screenshot
 
-![CLI Default Output](docs/screenshots/cli_default_output.png)
+![CLI Default Output](docs/screenshots/cli_default_output.jpg)
 
 #### Custom Config Output
 
@@ -229,7 +229,7 @@ Expected Result
 
 ##### Screenshot
 
-![CLI Custom Output](docs/screenshots/cli_custom_output.png)
+![CLI Custom Output](docs/screenshots/cli_custom_output.jpg)
 
 ---
 
@@ -249,7 +249,7 @@ The application opens.
 
 ##### Screenshot
 
-![GUI Home](docs/screenshots/gui_home.png)
+![GUI Home](docs/screenshots/gui_home.jpg)
 
 ---
 
@@ -267,7 +267,7 @@ Or browse and select different files.
 
 ##### Screenshot
 
-![GUI Files](docs/screenshots/gui_files.png)
+![GUI Files](docs/screenshots/gui_files.jpg)
 
 ---
 
@@ -282,7 +282,7 @@ Options:
 
 ##### Screenshot
 
-![GUI Output Selection](docs/screenshots/gui_output_selection.png)
+![GUI Output Selection](docs/screenshots/gui_output_selection.jpg)
 
 ---
 
@@ -296,7 +296,7 @@ Run Transformation Pipeline
 
 ##### Screenshot
 
-![GUI Run](docs/screenshots/gui_run.png)
+![GUI Run](docs/screenshots/gui_run.jpg)
 
 ---
 
@@ -324,7 +324,7 @@ is automatically saved.
 
 ##### Screenshot
 
-![GUI Output](docs/screenshots/gui_output.png)
+![GUI Output](docs/screenshots/gui_output.jpg)
 
 ---
 
